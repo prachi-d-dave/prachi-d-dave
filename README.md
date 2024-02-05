@@ -8,10 +8,5 @@ Currently, enhancing my skills while giving back to the community.
 ## Reach out
 
 - <a href="#"><img alt="Prachi Dave on GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white" /></a>&nbsp;<a href="https://github.com/prachi-d-dave">prachi-d-dave</a>
-
 - <a href="#"><img alt="Prachi Dave on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white" /></a>&nbsp;<a href="https://www.linkedin.com/in/prachiddave/">Prachi Dave</a>
-
-- <a href="#"><img alt="Prachi Dave on HackerRank" src="https://img.shields.io/badge/HackerRank
-" /></a>&nbsp;<a href="https://www.hackerrank.com/profile/dprachi1975">dprachi1975</a>
-
 - <a href="#"><img alt="Reach Prachi Dave on Email" src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=gmail&logoColor=white" /></a>&nbsp;<a href="prachiddave@gmail.com">Email me</a>
