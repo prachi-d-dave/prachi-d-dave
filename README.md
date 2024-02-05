@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Prachi</h1>
+<h1 align="center">Hi, I'm Prachi!</h1>
 <h3 align="center">I enjoy learning about Python and SQL.</h3>
 
 - ⚡ Fun fact **I love to gain skills and listen to music :)**
